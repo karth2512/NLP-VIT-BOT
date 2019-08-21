@@ -2,12 +2,12 @@ language: "en"
 
 # "tensorflow_embedding"
 pipeline: "tensorflow_embedding"
-# - name: "tokenizer_whitespace"
-# - name: "slang.SlangReplace"
-# - name: "spell.SpellingCorrect"
-# - name: "nlp.Lemmatizer"
-# - name: "vectorizer.WordVectorizer"
-# - name: "intentClassifier.CNN"
+- name: "tokenizer_whitespace"
+- name: "slang.SlangReplace"
+- name: "spell.SpellingCorrect"
+- name: "nlp.Lemmatizer"
+- name: "vectorizer.WordVectorizer"
+- name: "intentClassifier.CNN"
 
 #pipeline: name#
 # - name: "tokenizer_whitespace"
