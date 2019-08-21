@@ -3,7 +3,7 @@ A Rasa based chatbot that uses a custom NLU pipeline and the standard RASA-core 
 
 [Complete Project Report](https://drive.google.com/open?id=1QHwH1nPXLzOzjrHOYsYjBkJEEoaMx7uR)
 
-![Workflow](https://karth2512.github.com/NLP-VIT-BOT/images/ERD.png)
+![Workflow](https://github.com/karth2512/NLP-VIT-BOT/blob/master/images/ERD.PNG)
 ## Features
 ### NLU Pipeline
 The pipelinbe consist of the following stages:
@@ -20,7 +20,7 @@ The pipelinbe consist of the following stages:
 
 ### User Interface
 - Clean, Plain UI with minimal buttons.
-![User Interface](https://karth2512.github.com/NLP-VIT-BOT/images/UI.png)
+![User Interface](https://github.com/karth2512/NLP-VIT-BOT/blob/master/images/UI.PNG)
 
 ### Feedback/Rating 
 - A rating opiton in the UI enables the user to convey their level of satisfaction while using the product.
