@@ -1,7 +1,9 @@
 ﻿# Capstone Project - VITChatbot [English]
 A Rasa based chatbot that uses a custom NLU pipeline and the standard RASA-core to create an informative chatbot for resources related to VIT University.
-[Complete Project Report]()
 
+[Complete Project Report](https://drive.google.com/open?id=1QHwH1nPXLzOzjrHOYsYjBkJEEoaMx7uR)
+
+![Workflow](https://karth2512.github.com/NLP-VIT-BOT/images/ERD.png)
 ## Features
 ### NLU Pipeline
 The pipelinbe consist of the following stages:
@@ -18,6 +20,7 @@ The pipelinbe consist of the following stages:
 
 ### User Interface
 - Clean, Plain UI with minimal buttons.
+![User Interface](https://karth2512.github.com/NLP-VIT-BOT/images/UI.png)
 
 ### Feedback/Rating 
 - A rating opiton in the UI enables the user to convey their level of satisfaction while using the product.
@@ -30,7 +33,7 @@ The pipelinbe consist of the following stages:
 - Deep Learning: We use Convoluted neural networks to train our classifiers that help to discern the users motive and suggest suitable responses to make conversation.- Chatbot response: The chatbot replies to the input query either by providing relevant text and links or by asking further questions to clarify the context.
 - Expandable scenarios: The conversational flows are created in such a way that it can be expanded to match modern scenarios. The processes of adding conversations by the developer is quick, easy and modularized.
 
-###Dependencies
+### Dependencies
 - Beautiful Soup: Beautiful Soup provides a few simple methods and Python idioms for navigating, searching, and modifying a parse tree using Python parsers like lxml and html5lib. It automatically converts incoming documents to Unicode and outgoing documents to UTF-8.    
 - Text Blob: Text Blob is a Python (2 and 3) library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as partof-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.    
 - Pandas: pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labelled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. 
